@@ -6,7 +6,7 @@ body
 
 h1
 {
-	background-color:blue;
+	background-color:pink;
 	font-size: 50px;
 	color:red;
 	border: solid;
@@ -17,7 +17,7 @@ h1
 
 h2 
 {
-	background-color:blue;
+	background-color:pink;
 	font-size: 15px;
 	color:pink;
 	font-family:'Niconne',cursive;
@@ -26,7 +26,7 @@ h2
 
 h3 
 {
-	background-color: blue;
+	background-color: pink;
 	font-size:15px;
 	color:pink;
 	font-family:'Niconne',cursive;
@@ -34,7 +34,7 @@ h3
 
 h4
 {
-	background-color:blue;
+	background-color:pink;
 	font-size: 15px;
 	color:pink;
 	font-family:'Niconne',cursive;
